@@ -3,34 +3,16 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
+Jedi Labs is a comprehensive technical knowledge hub focused on advanced concepts and practical implementations in cybersecurity, information technology, data science, artificial intelligence, and cloud computing. Our platform serves as a bridge between theoretical understanding and real-world applications.
+This site is designed for both seasoned professionals and aspiring technologists, offering in-depth how-to guides, technical documentation, and systematic explorations of complex systems. Our content emphasizes practical implementation while maintaining rigorous technical accuracy.
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="technology illustration">
 </div>
+<h3>Our Focus Areas</h3>
+<li>Cybersecurity: Advanced threat detection, defense, and mitigation strategies</li>
+<li>Information Technology: Advanced networking, data storage, and processing</li>
+<li>Data Science & AI: Machine learning implementations, data pipeline architecture, MLOps</li>
+<li>Cloud Infrastructure: Multi-cloud strategies, containerization, serverless architectures</li>
+<li>Systems Design: Distributed systems, scalability patterns, microservices architecture</li>
+<li>DevSecOps: Security integration, automation, continuous deployment strategies</li>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
