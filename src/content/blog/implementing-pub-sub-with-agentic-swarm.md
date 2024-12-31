@@ -1,6 +1,6 @@
 ---
 title: 'Implementing a Pub/Sub Agentic Swarm for Intelligence Research'
-pubDateTime: 2024-10-30T15:30:00
+pubDateTime: 2024-10-30
 description: 'A comprehensive guide to setting up and implementing a Pub/Sub-based intelligence research system using agentic swarms.'
 author: 'Tobalo Torres-Valderas'
 image:
