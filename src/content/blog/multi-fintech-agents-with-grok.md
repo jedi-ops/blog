@@ -1,8 +1,8 @@
 ---
 title: 'Building a Multi-Agent Financial Intelligence System'
-pubDatetime: 2024-12-31
+pubDatetime: 2024-12-15
 description: 'A comprehensive guide to implementing an advanced multi-agent system for financial analysis using Python and AI.'
-author: 'Financial Technology Specialist'
+author: 'Tobalo Torres-Valderas'
 image:
     url: 'https://docs.astro.build/assets/fintech.webp'
     alt: 'A visualization of financial data analysis and artificial intelligence.'
@@ -10,8 +10,6 @@ tags: ["artificial intelligence", "finance", "python", "multi-agent systems", "t
 ---
 
 # Building a Multi-Agent Financial Intelligence System
-
-Published on: 2024-12-31
 
 The landscape of financial analysis is rapidly evolving with the integration of artificial intelligence. Today, we'll explore the implementation of a sophisticated multi-agent system that combines web intelligence gathering with quantitative financial analysis.
 

@@ -1,8 +1,8 @@
 ---
 title: 'Building Your First AI Agent: A Step-by-Step Guide'
-pubDatetime: 2024-12-31
+pubDatetime: 2024-12-12
 description: 'A comprehensive guide to creating your first AI agent using Python, phidata, and ollama.'
-author: 'AI Development Specialist'
+author: 'Tobalo Torres-Valderas'
 image:
     url: 'https://docs.astro.build/assets/ai-development.webp'
     alt: 'A visualization of artificial intelligence concepts.'
